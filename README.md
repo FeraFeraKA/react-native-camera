@@ -12,3 +12,4 @@ It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and us
 
 Some text 1
 Some text 2
+Some text 3

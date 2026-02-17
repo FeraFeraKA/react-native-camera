@@ -1,5 +1,5 @@
 
-VisionCamera offers new APIs, better performance, improved stability and more features.
+VisionCamera offers new APIs, better performance, improved stability and less features.
 It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and used in many production apps.
 
 You can support the development of VisionCamera by [sponsoring **@mrousavy** on GitHub](https://github.com/sponsors/mrousavy).
